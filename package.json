@@ -1,0 +1,28 @@
+{
+  "name": "hailthepresident",
+  "version": "0.0.1",
+  "description": "A twitter bot written in node.js to hail @realDonaldTrump",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhillipAmend/hailthepresident.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "donald",
+    "trump"
+  ],
+  "author": "Phillip Amend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhillipAmend/hailthepresident/issues"
+  },
+  "homepage": "https://github.com/PhillipAmend/hailthepresident#readme",
+  "dependencies": {
+    "twit": "^2.2.10"
+  }
+}
