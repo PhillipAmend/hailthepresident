@@ -1,2 +1,2 @@
 # hailthepresident
-A twitter bot written in node.js to hail @realDonaldTrump
+A twitter bot written in node.js to hail @realDonaldTrump (ironically)
